@@ -1,0 +1,2317 @@
+{
+ "dinner": [
+  {
+   "week": 1,
+   "day": "月",
+   "name": "しょうが焼き定食",
+   "time": 30,
+   "note": "たれは煮からめるだけ。ポテサラは先に作って冷やしておくと楽",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "lettuce_405",
+     "role": "主菜",
+     "name": "豚のしょうが焼き",
+     "url": "https://www.lettuceclub.net/recipe/dish/29911/",
+     "source": "レタスクラブ",
+     "servings": "2人分"
+    },
+    {
+     "id": "lettuce_008",
+     "role": "副菜",
+     "name": "和風ポテトサラダ",
+     "url": "https://www.lettuceclub.net/recipe/dish/39990/",
+     "source": "レタスクラブ",
+     "servings": "2～3人分"
+    },
+    {
+     "id": "yt_5GuHQQvm0WA_3",
+     "role": "汁物",
+     "name": "わかめと豆腐のお味噌汁",
+     "url": "https://www.youtube.com/watch?v=5GuHQQvm0WA",
+     "source": "YouTube",
+     "servings": "３〜４人前"
+    }
+   ],
+   "buy": [
+    {
+     "name": "豚肩ロースしょうが焼き用肉",
+     "amount": "6枚(約200g)"
+    },
+    {
+     "name": "キャベツ",
+     "amount": "1/6個"
+    },
+    {
+     "name": "トマト",
+     "amount": "1/4個"
+    },
+    {
+     "name": "じゃがいも(だんしゃく)",
+     "amount": "3個"
+    },
+    {
+     "name": "なめたけ",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "万能ねぎの小口切り",
+     "amount": "3本分"
+    },
+    {
+     "name": "長ねぎ",
+     "amount": "1/2本"
+    },
+    {
+     "name": "木綿豆腐1/3丁",
+     "amount": ""
+    }
+   ],
+   "staple": [
+    {
+     "name": "おろししょうが",
+     "amount": "大さじ1/2"
+    },
+    {
+     "name": "こしょう",
+     "amount": "少々"
+    },
+    {
+     "name": "ごま油",
+     "amount": "小さじ2"
+    },
+    {
+     "name": "しょうゆ",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "だし",
+     "amount": "600cc"
+    },
+    {
+     "name": "はちみつ",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "みりん",
+     "amount": "大さじ2 + 小さじ1"
+    },
+    {
+     "name": "わかめ",
+     "amount": "30ｇ"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "味噌",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "塩昆布",
+     "amount": "5g"
+    },
+    {
+     "name": "白いりごま",
+     "amount": "少々"
+    },
+    {
+     "name": "砂糖、塩",
+     "amount": "各ふたつまみ"
+    },
+    {
+     "name": "粉山椒",
+     "amount": "少々"
+    },
+    {
+     "name": "酒",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "酢",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "醤油",
+     "amount": "小さじ1"
+    }
+   ],
+   "search_text": "しょうが焼き定食 豚のしょうが焼き 和風ポテトサラダ わかめと豆腐のお味噌汁 豚肩ロースしょうが焼き用肉 キャベツ トマト じゃがいも(だんしゃく) なめたけ 万能ねぎの小口切り 長ねぎ 木綿豆腐1/3丁 おろししょうが こしょう ごま油 しょうゆ だし はちみつ みりん わかめ サラダ油 味噌 塩昆布 白いりごま 砂糖、塩 粉山椒 酒 酢 醤油"
+  },
+  {
+   "week": 1,
+   "day": "火",
+   "name": "ぶり照り定食",
+   "time": 30,
+   "note": "おひたしは前日仕込みOK。ぶりは焼く前に小麦粉薄く",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "yt_fK4BPPT7Fk0",
+     "role": "主菜",
+     "name": "ぶりの照り焼き",
+     "url": "https://www.youtube.com/watch?v=fK4BPPT7Fk0",
+     "source": "YouTube",
+     "servings": "４人前"
+    },
+    {
+     "id": "yt_p_sNzFCMFqY_1",
+     "role": "副菜",
+     "name": "ほうれん草のおひたし",
+     "url": "https://www.youtube.com/watch?v=p_sNzFCMFqY",
+     "source": "YouTube",
+     "servings": "２人前"
+    },
+    {
+     "id": "yt_kUdqgNUtHYQ_3",
+     "role": "汁物",
+     "name": "もやし・ブロッコリーの茎の味噌汁",
+     "url": "https://www.youtube.com/watch?v=kUdqgNUtHYQ",
+     "source": "YouTube",
+     "servings": "2人前"
+    }
+   ],
+   "buy": [
+    {
+     "name": "ブリ 切り身",
+     "amount": "４切れ"
+    },
+    {
+     "name": "大根おろし",
+     "amount": "適量"
+    },
+    {
+     "name": "ししとう",
+     "amount": "８本"
+    },
+    {
+     "name": "ほうれん草",
+     "amount": "1把"
+    },
+    {
+     "name": "もやし",
+     "amount": "1パック"
+    },
+    {
+     "name": "ブロッコリーの茎",
+     "amount": "1株分"
+    }
+   ],
+   "staple": [
+    {
+     "name": "かつお節",
+     "amount": "3ｇ + 適量"
+    },
+    {
+     "name": "ごま油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "すりごま",
+     "amount": "少々"
+    },
+    {
+     "name": "だし",
+     "amount": "200cc + 600cc"
+    },
+    {
+     "name": "みりん",
+     "amount": "50cc + 大さじ1.5 + 大さじ1"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "味噌",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "塩",
+     "amount": "少々 + 適量"
+    },
+    {
+     "name": "薄力粉",
+     "amount": "適量"
+    },
+    {
+     "name": "酒",
+     "amount": "50cc"
+    },
+    {
+     "name": "醤油",
+     "amount": "20cc + 大さじ1.5 + 適量"
+    },
+    {
+     "name": "黒コショウ",
+     "amount": "少々"
+    }
+   ],
+   "search_text": "ぶり照り定食 ぶりの照り焼き ほうれん草のおひたし もやし・ブロッコリーの茎の味噌汁 ブリ 切り身 大根おろし ししとう ほうれん草 もやし ブロッコリーの茎 かつお節 ごま油 すりごま だし みりん サラダ油 味噌 塩 薄力粉 酒 醤油 黒コショウ"
+  },
+  {
+   "week": 1,
+   "day": "水",
+   "name": "梅はちみつ照り焼きチキン",
+   "time": 30,
+   "note": "梅は甘めに効くので子どもOK。無限ブロッコリーは茹でて和えるだけ",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "nhk_025",
+     "role": "主菜",
+     "name": "鶏もも肉の梅はちみつ照り焼き",
+     "url": "https://www.kyounoryouri.jp/recipe/15702_鶏もも肉の梅はちみつ照り焼き.html",
+     "source": "NHKきょうの料理",
+     "servings": "2人分"
+    },
+    {
+     "id": "osarai_005",
+     "role": "副菜",
+     "name": "無限ブロッコリー",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e7%84%a1%e9%99%90%e3%83%96%e3%83%ad%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc/",
+     "source": "おさらいキッチン",
+     "servings": "作りやすい量"
+    },
+    {
+     "id": "nhk_031",
+     "role": "汁物",
+     "name": "にんじんのすり流し",
+     "url": "https://www.kyounoryouri.jp/recipe/13530_にんじんのすり流し.html",
+     "source": "NHKきょうの料理",
+     "servings": "2人分"
+    }
+   ],
+   "buy": [
+    {
+     "name": "鶏もも肉",
+     "amount": ""
+    },
+    {
+     "name": "青じそ",
+     "amount": ""
+    },
+    {
+     "name": "大根おろし",
+     "amount": ""
+    },
+    {
+     "name": "梅干し",
+     "amount": ""
+    },
+    {
+     "name": "ブロッコリー",
+     "amount": "1/2個"
+    },
+    {
+     "name": "フライドオニオン",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "にんじん",
+     "amount": "1本"
+    }
+   ],
+   "staple": [
+    {
+     "name": "こしょう",
+     "amount": "適量"
+    },
+    {
+     "name": "しょうゆ",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "はちみつ",
+     "amount": ""
+    },
+    {
+     "name": "みりん",
+     "amount": "大さじ1/2"
+    },
+    {
+     "name": "サラダ油",
+     "amount": ""
+    },
+    {
+     "name": "チキンスープ",
+     "amount": "カップ2"
+    },
+    {
+     "name": "マヨネーズ",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "塩",
+     "amount": ""
+    },
+    {
+     "name": "塩昆布",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "小麦粉",
+     "amount": ""
+    },
+    {
+     "name": "砂糖",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "酒",
+     "amount": ""
+    },
+    {
+     "name": "黒こしょう",
+     "amount": ""
+    }
+   ],
+   "search_text": "梅はちみつ照り焼きチキン 鶏もも肉の梅はちみつ照り焼き 無限ブロッコリー にんじんのすり流し 鶏もも肉 青じそ 大根おろし 梅干し ブロッコリー フライドオニオン にんじん こしょう しょうゆ はちみつ みりん サラダ油 チキンスープ マヨネーズ 塩 塩昆布 小麦粉 砂糖 酒 黒こしょう"
+  },
+  {
+   "week": 1,
+   "day": "木",
+   "name": "さばみそ定食",
+   "time": 30,
+   "note": "さばは煮汁が沸いてから入れると臭みなし。きゅうりの一味は大人だけ後がけ",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "lettuce_x172",
+     "role": "主菜",
+     "name": "さばのみそ煮",
+     "url": "https://www.lettuceclub.net/recipe/dish/31175/",
+     "source": "レタスクラブ",
+     "servings": "２人分"
+    },
+    {
+     "id": "yt_3SM7B-OIBaQ_1",
+     "role": "副菜",
+     "name": "たたききゅうり",
+     "url": "https://www.youtube.com/watch?v=3SM7B-OIBaQ",
+     "source": "YouTube",
+     "servings": ""
+    },
+    {
+     "id": "lettuce_x157",
+     "role": "汁物",
+     "name": "もやしのすり流し",
+     "url": "https://www.lettuceclub.net/recipe/dish/31256/",
+     "source": "レタスクラブ",
+     "servings": "作りやすい分量・4人分"
+    }
+   ],
+   "buy": [
+    {
+     "name": "さば…2切れ",
+     "amount": ""
+    },
+    {
+     "name": "ピーマン…2個",
+     "amount": ""
+    },
+    {
+     "name": "しょうが…2かけ",
+     "amount": ""
+    },
+    {
+     "name": "水…1カップ",
+     "amount": ""
+    },
+    {
+     "name": "酒…1/2カップ",
+     "amount": ""
+    },
+    {
+     "name": "きゅうり",
+     "amount": "２本"
+    },
+    {
+     "name": "もやし…400g",
+     "amount": ""
+    },
+    {
+     "name": "ベーコン…4枚",
+     "amount": ""
+    },
+    {
+     "name": "玉ねぎ…1/2個",
+     "amount": ""
+    },
+    {
+     "name": "万能ねぎの小口切り…適量",
+     "amount": ""
+    }
+   ],
+   "staple": [
+    {
+     "name": "おろしニンニク",
+     "amount": "小さじ１"
+    },
+    {
+     "name": "ごま油",
+     "amount": "大さじ１"
+    },
+    {
+     "name": "ごま油、みそ",
+     "amount": ""
+    },
+    {
+     "name": "しょうゆ、みそ…各大さじ1",
+     "amount": ""
+    },
+    {
+     "name": "しょうゆ、みりん…各大さじ２～２",
+     "amount": "1/2"
+    },
+    {
+     "name": "だし汁…２",
+     "amount": "1/2カップ"
+    },
+    {
+     "name": "サラダ油、バター、塩、粗びき黒こしょう",
+     "amount": ""
+    },
+    {
+     "name": "一味",
+     "amount": "少々"
+    },
+    {
+     "name": "合わせだし",
+     "amount": ""
+    },
+    {
+     "name": "白ごま",
+     "amount": "小さじ２"
+    },
+    {
+     "name": "砂糖",
+     "amount": "小さじ１"
+    },
+    {
+     "name": "砂糖…大さじ2",
+     "amount": ""
+    },
+    {
+     "name": "酢",
+     "amount": "大さじ１"
+    },
+    {
+     "name": "醤油",
+     "amount": "大さじ１"
+    }
+   ],
+   "search_text": "さばみそ定食 さばのみそ煮 たたききゅうり もやしのすり流し さば…2切れ ピーマン…2個 しょうが…2かけ 水…1カップ 酒…1/2カップ きゅうり もやし…400g ベーコン…4枚 玉ねぎ…1/2個 万能ねぎの小口切り…適量 おろしニンニク ごま油 ごま油、みそ しょうゆ、みそ…各大さじ1 しょうゆ、みりん…各大さじ２～２ だし汁…２ サラダ油、バター、塩、粗びき黒こしょう 一味 合わせだし 白ごま 砂糖 砂糖…大さじ2 酢 醤油"
+  },
+  {
+   "week": 1,
+   "day": "金",
+   "name": "肉じゃが定食",
+   "time": 35,
+   "note": "肉じゃがを煮ている間に他2品が終わる。無限ピーマンは1手順",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "lettuce_322",
+     "role": "主菜",
+     "name": "肉じゃが",
+     "url": "https://www.lettuceclub.net/recipe/dish/30828/",
+     "source": "レタスクラブ",
+     "servings": "2人分"
+    },
+    {
+     "id": "osarai_359",
+     "role": "副菜",
+     "name": "笠原流 無限ピーマン",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e7%ac%a0%e5%8e%9f%e6%b5%81-%e7%84%a1%e9%99%90%e3%83%94%e3%83%bc%e3%83%9e%e3%83%b3/",
+     "source": "おさらいキッチン",
+     "servings": "作りやすい量"
+    },
+    {
+     "id": "yt_5GuHQQvm0WA_3",
+     "role": "汁物",
+     "name": "わかめと豆腐のお味噌汁",
+     "url": "https://www.youtube.com/watch?v=5GuHQQvm0WA",
+     "source": "YouTube",
+     "servings": "３〜４人前"
+    }
+   ],
+   "buy": [
+    {
+     "name": "豚バラ薄切り肉",
+     "amount": "200g"
+    },
+    {
+     "name": "じゃがいも(メイクイーン)",
+     "amount": "2個"
+    },
+    {
+     "name": "玉ねぎ",
+     "amount": "1/2個"
+    },
+    {
+     "name": "にんじん",
+     "amount": "1/2本"
+    },
+    {
+     "name": "絹さや",
+     "amount": "8本"
+    },
+    {
+     "name": "ピーマン",
+     "amount": "2個"
+    },
+    {
+     "name": "ザーサイ(粗みじん切り)",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "長ねぎ",
+     "amount": "1/2本"
+    },
+    {
+     "name": "木綿豆腐1/3丁",
+     "amount": ""
+    }
+   ],
+   "staple": [
+    {
+     "name": "ごま油",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "しょうゆ",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "だし",
+     "amount": "600cc"
+    },
+    {
+     "name": "みりん",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "わかめ",
+     "amount": "30ｇ"
+    },
+    {
+     "name": "味噌",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "塩昆布",
+     "amount": "5g"
+    },
+    {
+     "name": "昆布(5×5cm)",
+     "amount": "1枚"
+    },
+    {
+     "name": "砂糖",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "粉山椒",
+     "amount": "少々"
+    },
+    {
+     "name": "酒",
+     "amount": "1/2カップ"
+    },
+    {
+     "name": "醤油",
+     "amount": "小さじ1"
+    }
+   ],
+   "search_text": "肉じゃが定食 肉じゃが 笠原流 無限ピーマン わかめと豆腐のお味噌汁 豚バラ薄切り肉 じゃがいも(メイクイーン) 玉ねぎ にんじん 絹さや ピーマン ザーサイ(粗みじん切り) 長ねぎ 木綿豆腐1/3丁 ごま油 しょうゆ だし みりん わかめ 味噌 塩昆布 昆布(5×5cm) 砂糖 粉山椒 酒 醤油"
+  },
+  {
+   "week": 1,
+   "day": "土",
+   "name": "唐揚げの日",
+   "time": 60,
+   "note": "笠原さん渾身の唐揚げ。30分以上漬け込むので午後早めに仕込み開始",
+   "weekend": true,
+   "dishes": [
+    {
+     "id": "yt_6a6QFtoM9kc",
+     "role": "主菜",
+     "name": "鶏ももと手羽先の唐揚げ",
+     "url": "https://www.youtube.com/watch?v=6a6QFtoM9kc",
+     "source": "YouTube",
+     "servings": ""
+    },
+    {
+     "id": "yt_p0Uhq6olluY_1",
+     "role": "副菜",
+     "name": "ポテトサラダ",
+     "url": "https://www.youtube.com/watch?v=p0Uhq6olluY",
+     "source": "YouTube",
+     "servings": "２〜３人前"
+    },
+    {
+     "id": "yt_xy8Sq8NBckA",
+     "role": "汁物",
+     "name": "煮干しだしの味噌汁",
+     "url": "https://www.youtube.com/watch?v=xy8Sq8NBckA",
+     "source": "YouTube",
+     "servings": "3〜4人前"
+    }
+   ],
+   "buy": [
+    {
+     "name": "鶏もも",
+     "amount": "２枚"
+    },
+    {
+     "name": "手羽先",
+     "amount": "８本"
+    },
+    {
+     "name": "レモン",
+     "amount": "１／２個"
+    },
+    {
+     "name": "パセリ",
+     "amount": "適量"
+    },
+    {
+     "name": "じゃがいも（男爵）",
+     "amount": "3個"
+    },
+    {
+     "name": "にんじん",
+     "amount": "1/2本"
+    },
+    {
+     "name": "玉ねぎ",
+     "amount": "1/2個"
+    },
+    {
+     "name": "きゅうり",
+     "amount": "１本"
+    },
+    {
+     "name": "卵",
+     "amount": "1個"
+    },
+    {
+     "name": "油揚げ",
+     "amount": "1枚"
+    },
+    {
+     "name": "長ねぎ",
+     "amount": "1本"
+    },
+    {
+     "name": "じゃがいも",
+     "amount": "小3個"
+    },
+    {
+     "name": "梅干し",
+     "amount": "1個"
+    }
+   ],
+   "staple": [
+    {
+     "name": "おろしニンニク",
+     "amount": "小さじ２ + 小さじ２"
+    },
+    {
+     "name": "おろし生姜",
+     "amount": "小さじ２"
+    },
+    {
+     "name": "ごま油",
+     "amount": "大さじ１"
+    },
+    {
+     "name": "だし昆布",
+     "amount": "5g"
+    },
+    {
+     "name": "みりん",
+     "amount": "大さじ1 + 大さじ1"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "ホワイトペッパー",
+     "amount": "少々"
+    },
+    {
+     "name": "マヨネーズ",
+     "amount": "大さじ３"
+    },
+    {
+     "name": "一味唐辛子",
+     "amount": "少々"
+    },
+    {
+     "name": "味噌",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "塩",
+     "amount": "２つまみぐらい + 小さじ１ + 少々"
+    },
+    {
+     "name": "強力粉",
+     "amount": "適量"
+    },
+    {
+     "name": "煮干し",
+     "amount": "10匹"
+    },
+    {
+     "name": "片栗粉",
+     "amount": "適量"
+    },
+    {
+     "name": "白ごま",
+     "amount": "少々"
+    },
+    {
+     "name": "砂糖",
+     "amount": "小さじ２ + 小さじ1/2 + 少々"
+    },
+    {
+     "name": "薄力粉",
+     "amount": "適量"
+    },
+    {
+     "name": "薄口醤油",
+     "amount": "小さじ1/2"
+    },
+    {
+     "name": "辛子",
+     "amount": "少々"
+    },
+    {
+     "name": "酒",
+     "amount": "大さじ３ + 大さじ1"
+    },
+    {
+     "name": "酢",
+     "amount": "少々"
+    },
+    {
+     "name": "醤油",
+     "amount": "大さじ３ + 小さじ1 + 大さじ1"
+    },
+    {
+     "name": "黒コショウ",
+     "amount": "少々"
+    }
+   ],
+   "search_text": "唐揚げの日 鶏ももと手羽先の唐揚げ ポテトサラダ 煮干しだしの味噌汁 鶏もも 手羽先 レモン パセリ じゃがいも（男爵） にんじん 玉ねぎ きゅうり 卵 油揚げ 長ねぎ じゃがいも 梅干し おろしニンニク おろし生姜 ごま油 だし昆布 みりん サラダ油 ホワイトペッパー マヨネーズ 一味唐辛子 味噌 塩 強力粉 煮干し 片栗粉 白ごま 砂糖 薄力粉 薄口醤油 辛子 酒 酢 醤油 黒コショウ"
+  },
+  {
+   "week": 1,
+   "day": "日",
+   "name": "ハンバーグの日",
+   "time": 45,
+   "note": "大根おろしとのりでさっぱり和風。トマトのお浸しは冷やす時間をとる",
+   "weekend": true,
+   "dishes": [
+    {
+     "id": "lettuce_229",
+     "role": "主菜",
+     "name": "和風ハンバーグ",
+     "url": "https://www.lettuceclub.net/recipe/dish/31468/",
+     "source": "レタスクラブ",
+     "servings": "2人分"
+    },
+    {
+     "id": "yt_WZ2lM6wjASQ",
+     "role": "副菜",
+     "name": "トマトのお浸し",
+     "url": "https://www.youtube.com/watch?v=WZ2lM6wjASQ",
+     "source": "YouTube",
+     "servings": "2〜3人前"
+    },
+    {
+     "id": "nhk_015",
+     "role": "汁物",
+     "name": "もやし豚汁",
+     "url": "https://www.kyounoryouri.jp/recipe/19488_もやし豚汁.html",
+     "source": "NHKきょうの料理",
+     "servings": ""
+    }
+   ],
+   "buy": [
+    {
+     "name": "合いびき肉",
+     "amount": "300g"
+    },
+    {
+     "name": "卵",
+     "amount": "1個"
+    },
+    {
+     "name": "玉ねぎのみじん切り",
+     "amount": "1個分"
+    },
+    {
+     "name": "しいたけのみじん切り",
+     "amount": "4枚分"
+    },
+    {
+     "name": "水菜",
+     "amount": "2株"
+    },
+    {
+     "name": "大根おろし",
+     "amount": "大さじ4"
+    },
+    {
+     "name": "トマト",
+     "amount": "3個"
+    },
+    {
+     "name": "オクラ",
+     "amount": "6本"
+    },
+    {
+     "name": "もやし",
+     "amount": "1袋"
+    },
+    {
+     "name": "豚バラ肉",
+     "amount": "100g"
+    }
+   ],
+   "staple": [
+    {
+     "name": "ごま油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "しょうゆ",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "だし",
+     "amount": "600cc"
+    },
+    {
+     "name": "とろろ昆布",
+     "amount": "適量"
+    },
+    {
+     "name": "みそ",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "みりん",
+     "amount": "大さじ2 + 50cc + 小さじ1"
+    },
+    {
+     "name": "塩",
+     "amount": "少々"
+    },
+    {
+     "name": "塩・片栗粉・粗びき黒こしょう",
+     "amount": "適量"
+    },
+    {
+     "name": "昆布",
+     "amount": "1枚"
+    },
+    {
+     "name": "焼きのり",
+     "amount": "1枚"
+    },
+    {
+     "name": "白いりごま",
+     "amount": "少々"
+    },
+    {
+     "name": "薄口醤油",
+     "amount": "50cc"
+    },
+    {
+     "name": "酒",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "黒こしょう",
+     "amount": "適量"
+    }
+   ],
+   "search_text": "ハンバーグの日 和風ハンバーグ トマトのお浸し もやし豚汁 合いびき肉 卵 玉ねぎのみじん切り しいたけのみじん切り 水菜 大根おろし トマト オクラ もやし 豚バラ肉 ごま油 しょうゆ だし とろろ昆布 みそ みりん 塩 塩・片栗粉・粗びき黒こしょう 昆布 焼きのり 白いりごま 薄口醤油 酒 黒こしょう"
+  },
+  {
+   "week": 2,
+   "day": "月",
+   "name": "皮パリチキン定食",
+   "time": 30,
+   "note": "鶏は皮目を押さえつけて焼くだけ。きんぴらの一味は大人だけ",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "osarai_x146",
+     "role": "主菜",
+     "name": "鶏の皮パリ焼き",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e9%b6%8f%e3%81%ae%e7%9a%ae%e3%83%91%e3%83%aa%e7%84%bc%e3%81%8d/",
+     "source": "おさらいキッチン",
+     "servings": "2人分"
+    },
+    {
+     "id": "yt_ZPwzgcGJLiI_1",
+     "role": "副菜",
+     "name": "笠原流きんぴらごぼう",
+     "url": "https://www.youtube.com/watch?v=ZPwzgcGJLiI",
+     "source": "YouTube",
+     "servings": "2〜3人前"
+    },
+    {
+     "id": "yt_5GuHQQvm0WA_3",
+     "role": "汁物",
+     "name": "わかめと豆腐のお味噌汁",
+     "url": "https://www.youtube.com/watch?v=5GuHQQvm0WA",
+     "source": "YouTube",
+     "servings": "３〜４人前"
+    }
+   ],
+   "buy": [
+    {
+     "name": "鶏モモ肉",
+     "amount": "1枚"
+    },
+    {
+     "name": "レタス",
+     "amount": "1/8個"
+    },
+    {
+     "name": "カイワレ",
+     "amount": "1/4パック"
+    },
+    {
+     "name": "ミツバ",
+     "amount": "1/6束"
+    },
+    {
+     "name": "オクラ",
+     "amount": "3本"
+    },
+    {
+     "name": "しば漬け(みじん切り)",
+     "amount": "30g"
+    },
+    {
+     "name": "レモン(くし形切り)",
+     "amount": "1/4個"
+    },
+    {
+     "name": "ごぼう",
+     "amount": "200g"
+    },
+    {
+     "name": "にんじん",
+     "amount": "60g"
+    },
+    {
+     "name": "生姜1片（約15g）",
+     "amount": ""
+    },
+    {
+     "name": "長ねぎ",
+     "amount": "1/2本"
+    },
+    {
+     "name": "木綿豆腐1/3丁",
+     "amount": ""
+    }
+   ],
+   "staple": [
+    {
+     "name": "きび砂糖",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "ごま油",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "すりゴマ(白)",
+     "amount": "大さじ1.5"
+    },
+    {
+     "name": "だし",
+     "amount": "600cc"
+    },
+    {
+     "name": "みりん",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "わかめ",
+     "amount": "30ｇ"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "一味唐辛子",
+     "amount": "少々"
+    },
+    {
+     "name": "味噌",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "塩",
+     "amount": "適量"
+    },
+    {
+     "name": "太白ごま油 大さじ2",
+     "amount": "※サラダ油でも可"
+    },
+    {
+     "name": "白ごま",
+     "amount": "少々"
+    },
+    {
+     "name": "粉山椒",
+     "amount": "少々"
+    },
+    {
+     "name": "粗びきコショウ(黒)",
+     "amount": "適量"
+    },
+    {
+     "name": "酒",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "醤油",
+     "amount": "大さじ2 + 小さじ1"
+    }
+   ],
+   "search_text": "皮パリチキン定食 鶏の皮パリ焼き 笠原流きんぴらごぼう わかめと豆腐のお味噌汁 鶏モモ肉 レタス カイワレ ミツバ オクラ しば漬け(みじん切り) レモン(くし形切り) ごぼう にんじん 生姜1片（約15g） 長ねぎ 木綿豆腐1/3丁 きび砂糖 ごま油 すりゴマ(白) だし みりん わかめ サラダ油 一味唐辛子 味噌 塩 太白ごま油 大さじ2 白ごま 粉山椒 粗びきコショウ(黒) 酒 醤油"
+  },
+  {
+   "week": 2,
+   "day": "火",
+   "name": "豚バラ大根の日",
+   "time": 40,
+   "note": "大根1本使い切りセット。本体は主菜に、皮はきんぴらに（同じ動画で紹介）",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "yt_WmQWcOrDskQ_1",
+     "role": "主菜",
+     "name": "豚バラ大根",
+     "url": "https://www.youtube.com/watch?v=WmQWcOrDskQ",
+     "source": "YouTube",
+     "servings": "3〜4人前"
+    },
+    {
+     "id": "yt_WmQWcOrDskQ_2",
+     "role": "副菜",
+     "name": "大根の皮のきんぴら",
+     "url": "https://www.youtube.com/watch?v=WmQWcOrDskQ",
+     "source": "YouTube",
+     "servings": ""
+    },
+    {
+     "id": "yt_kUdqgNUtHYQ_3",
+     "role": "汁物",
+     "name": "もやし・ブロッコリーの茎の味噌汁",
+     "url": "https://www.youtube.com/watch?v=kUdqgNUtHYQ",
+     "source": "YouTube",
+     "servings": "2人前"
+    }
+   ],
+   "buy": [
+    {
+     "name": "豚バラブロック",
+     "amount": "300g"
+    },
+    {
+     "name": "大根",
+     "amount": "300g"
+    },
+    {
+     "name": "長ねぎ",
+     "amount": "1/4本"
+    },
+    {
+     "name": "厚揚げ",
+     "amount": "1枚"
+    },
+    {
+     "name": "ゆで卵",
+     "amount": "4個"
+    },
+    {
+     "name": "お酒",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "もやし",
+     "amount": "1パック"
+    },
+    {
+     "name": "ブロッコリーの茎",
+     "amount": "1株分"
+    }
+   ],
+   "staple": [
+    {
+     "name": "ごま油",
+     "amount": "大さじ1 + 大さじ1"
+    },
+    {
+     "name": "すりごま",
+     "amount": "少々"
+    },
+    {
+     "name": "だし",
+     "amount": "600cc + 600cc"
+    },
+    {
+     "name": "みりん",
+     "amount": "大さじ2 + 大さじ1"
+    },
+    {
+     "name": "七味唐辛子",
+     "amount": "少々 + 少々"
+    },
+    {
+     "name": "味噌",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "白ごま",
+     "amount": "適量"
+    },
+    {
+     "name": "砂糖",
+     "amount": "大さじ3 + 大さじ1"
+    },
+    {
+     "name": "酒",
+     "amount": "大さじ5"
+    },
+    {
+     "name": "醤油",
+     "amount": "大さじ2 + 大さじ3 + 大さじ2"
+    },
+    {
+     "name": "黒コショウ",
+     "amount": "少々"
+    }
+   ],
+   "search_text": "豚バラ大根の日 豚バラ大根 大根の皮のきんぴら もやし・ブロッコリーの茎の味噌汁 豚バラブロック 大根 長ねぎ 厚揚げ ゆで卵 お酒 もやし ブロッコリーの茎 ごま油 すりごま だし みりん 七味唐辛子 味噌 白ごま 砂糖 酒 醤油 黒コショウ"
+  },
+  {
+   "week": 2,
+   "day": "水",
+   "name": "鮭ちゃんちゃん焼き定食",
+   "time": 30,
+   "note": "フライパン1つで野菜もとれる。みそバターは子ども人気",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "lettuce_334",
+     "role": "主菜",
+     "name": "鮭のちゃんちゃん焼き",
+     "url": "https://www.lettuceclub.net/recipe/dish/30760/",
+     "source": "レタスクラブ",
+     "servings": "4人分"
+    },
+    {
+     "id": "osarai_259",
+     "role": "副菜",
+     "name": "ブロッコリーのおひたし",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e3%83%96%e3%83%ad%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%81%ae%e3%81%8a%e3%81%b2%e3%81%9f%e3%81%97/",
+     "source": "おさらいキッチン",
+     "servings": "作りやすい量"
+    },
+    {
+     "id": "osarai_295",
+     "role": "汁物",
+     "name": "冬瓜のすり流し",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e5%86%ac%e7%93%9c%e3%81%ae%e3%81%99%e3%82%8a%e6%b5%81%e3%81%97/",
+     "source": "おさらいキッチン",
+     "servings": "作りやすい量"
+    }
+   ],
+   "buy": [
+    {
+     "name": "生鮭",
+     "amount": "4切れ"
+    },
+    {
+     "name": "牛乳",
+     "amount": "3/4カップ"
+    },
+    {
+     "name": "キャベツ",
+     "amount": "1/4個"
+    },
+    {
+     "name": "しめじ",
+     "amount": "1パック"
+    },
+    {
+     "name": "もやし",
+     "amount": "100g"
+    },
+    {
+     "name": "万能ねぎ",
+     "amount": "3本分"
+    },
+    {
+     "name": "レモンの輪切り",
+     "amount": "4枚"
+    },
+    {
+     "name": "茹でたブロッコリー",
+     "amount": "1/2株"
+    },
+    {
+     "name": "冬瓜",
+     "amount": "200g"
+    }
+   ],
+   "staple": [
+    {
+     "name": "おかか",
+     "amount": "適量"
+    },
+    {
+     "name": "しょうゆ",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "だし",
+     "amount": "300mL"
+    },
+    {
+     "name": "だし汁",
+     "amount": "180mL"
+    },
+    {
+     "name": "みそ",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "みりん",
+     "amount": "大さじ3 + 20mL"
+    },
+    {
+     "name": "カラシ",
+     "amount": "小さじ1/2"
+    },
+    {
+     "name": "サラダ油、塩、こしょう、小麦粉、バター",
+     "amount": "適量"
+    },
+    {
+     "name": "塩",
+     "amount": "適量"
+    },
+    {
+     "name": "牛乳（みそだれ用）",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "薄口しょうゆ",
+     "amount": "20mL"
+    },
+    {
+     "name": "酒",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "黒コショウ",
+     "amount": "適量"
+    }
+   ],
+   "search_text": "鮭ちゃんちゃん焼き定食 鮭のちゃんちゃん焼き ブロッコリーのおひたし 冬瓜のすり流し 生鮭 牛乳 キャベツ しめじ もやし 万能ねぎ レモンの輪切り 茹でたブロッコリー 冬瓜 おかか しょうゆ だし だし汁 みそ みりん カラシ サラダ油、塩、こしょう、小麦粉、バター 塩 牛乳（みそだれ用） 薄口しょうゆ 酒 黒コショウ"
+  },
+  {
+   "week": 2,
+   "day": "木",
+   "name": "塩つくね棒定食",
+   "time": 30,
+   "note": "つくねは棒状で焼きやすい。レモンと大根おろしでさっぱり",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "lettuce_434",
+     "role": "主菜",
+     "name": "塩つくね棒",
+     "url": "https://www.lettuceclub.net/recipe/dish/10572/",
+     "source": "レタスクラブ",
+     "servings": "2人分"
+    },
+    {
+     "id": "nhk_030",
+     "role": "副菜",
+     "name": "もやしと油揚げの煮びたし",
+     "url": "https://www.kyounoryouri.jp/recipe/19490_もやしと油揚げの煮びたし.html",
+     "source": "NHKきょうの料理",
+     "servings": "2～3人分"
+    },
+    {
+     "id": "nhk_031",
+     "role": "汁物",
+     "name": "にんじんのすり流し",
+     "url": "https://www.kyounoryouri.jp/recipe/13530_にんじんのすり流し.html",
+     "source": "NHKきょうの料理",
+     "servings": "2人分"
+    }
+   ],
+   "buy": [
+    {
+     "name": "とりひき肉",
+     "amount": "200g"
+    },
+    {
+     "name": "貝割れ菜",
+     "amount": "1/2パック"
+    },
+    {
+     "name": "長ねぎ",
+     "amount": "1/2本"
+    },
+    {
+     "name": "レモンの半月切り",
+     "amount": "1/4個分"
+    },
+    {
+     "name": "大根おろし",
+     "amount": "2cm分"
+    },
+    {
+     "name": "もやし",
+     "amount": "1袋"
+    },
+    {
+     "name": "油揚げ",
+     "amount": "1枚"
+    },
+    {
+     "name": "にんじん",
+     "amount": "1本"
+    }
+   ],
+   "staple": [
+    {
+     "name": "うす口しょうゆ",
+     "amount": "カップ1/4"
+    },
+    {
+     "name": "しょうゆ",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "みりん",
+     "amount": "小さじ1 + カップ1/4 + 大さじ1/2"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "チキンスープ",
+     "amount": "カップ2"
+    },
+    {
+     "name": "塩",
+     "amount": "小さじ1/2"
+    },
+    {
+     "name": "昆布",
+     "amount": "3g"
+    },
+    {
+     "name": "煮干し",
+     "amount": "20g"
+    },
+    {
+     "name": "白いりごま",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "粗びき黒こしょう",
+     "amount": "小さじ1/4"
+    },
+    {
+     "name": "黒こしょう",
+     "amount": ""
+    }
+   ],
+   "search_text": "塩つくね棒定食 塩つくね棒 もやしと油揚げの煮びたし にんじんのすり流し とりひき肉 貝割れ菜 長ねぎ レモンの半月切り 大根おろし もやし 油揚げ にんじん うす口しょうゆ しょうゆ みりん サラダ油 チキンスープ 塩 昆布 煮干し 白いりごま 粗びき黒こしょう 黒こしょう"
+  },
+  {
+   "week": 2,
+   "day": "金",
+   "name": "カレーの日",
+   "time": 40,
+   "note": "笠原流の和風だしカレー。金曜はカレーで週を締める。汁物不要",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "osarai_412",
+     "role": "主菜",
+     "name": "鶏と根菜のカレーライス",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e9%b6%8f%e3%81%a8%e6%a0%b9%e8%8f%9c%e3%81%ae%e3%82%ab%e3%83%ac%e3%83%bc%e3%83%a9%e3%82%a4%e3%82%b9/",
+     "source": "おさらいキッチン",
+     "servings": "2人分"
+    },
+    {
+     "id": "yt_3SM7B-OIBaQ_1",
+     "role": "副菜",
+     "name": "たたききゅうり",
+     "url": "https://www.youtube.com/watch?v=3SM7B-OIBaQ",
+     "source": "YouTube",
+     "servings": ""
+    }
+   ],
+   "buy": [
+    {
+     "name": "鶏もも肉",
+     "amount": "150g"
+    },
+    {
+     "name": "大根",
+     "amount": "1/10本(100g)"
+    },
+    {
+     "name": "にんじん",
+     "amount": "1/4本(50g)"
+    },
+    {
+     "name": "たまねぎ",
+     "amount": "1/2コ"
+    },
+    {
+     "name": "じゃがいも(男爵)",
+     "amount": "1/2コ"
+    },
+    {
+     "name": "万能ねぎ",
+     "amount": "2.5本"
+    },
+    {
+     "name": "きゅうり",
+     "amount": "２本"
+    }
+   ],
+   "staple": [
+    {
+     "name": "おろしニンニク",
+     "amount": "小さじ１"
+    },
+    {
+     "name": "ごま油",
+     "amount": "大さじ１"
+    },
+    {
+     "name": "しょうが",
+     "amount": "20g"
+    },
+    {
+     "name": "しょうゆ、みりん、トマトケチャップ",
+     "amount": "各大さじ1"
+    },
+    {
+     "name": "だし汁",
+     "amount": "2カップ(400mL)"
+    },
+    {
+     "name": "カレー粉",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "一味",
+     "amount": "少々"
+    },
+    {
+     "name": "塩、こしょう",
+     "amount": "各適量"
+    },
+    {
+     "name": "温かいご飯",
+     "amount": "400g"
+    },
+    {
+     "name": "白ごま",
+     "amount": "小さじ２"
+    },
+    {
+     "name": "砂糖",
+     "amount": "大さじ1/2 + 小さじ１"
+    },
+    {
+     "name": "酢",
+     "amount": "大さじ１"
+    },
+    {
+     "name": "醤油",
+     "amount": "大さじ１"
+    }
+   ],
+   "search_text": "カレーの日 鶏と根菜のカレーライス たたききゅうり 鶏もも肉 大根 にんじん たまねぎ じゃがいも(男爵) 万能ねぎ きゅうり おろしニンニク ごま油 しょうが しょうゆ、みりん、トマトケチャップ だし汁 カレー粉 サラダ油 一味 塩、こしょう 温かいご飯 白ごま 砂糖 酢 醤油"
+  },
+  {
+   "week": 2,
+   "day": "土",
+   "name": "コロッケの日",
+   "time": 60,
+   "note": "笠原さんのポテトコロッケ。子どもと一緒に丸めると楽しい",
+   "weekend": true,
+   "dishes": [
+    {
+     "id": "yt_kHwQeE6isr8",
+     "role": "主菜",
+     "name": "ポテトコロッケ",
+     "url": "https://www.youtube.com/watch?v=kHwQeE6isr8",
+     "source": "YouTube",
+     "servings": "4〜5人前"
+    },
+    {
+     "id": "osarai_300",
+     "role": "副菜",
+     "name": "千切りきゃべつの煮びたし",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e5%8d%83%e5%88%87%e3%82%8a%e3%81%8d%e3%82%83%e3%81%b9%e3%81%a4%e3%81%ae%e7%85%ae%e3%81%b3%e3%81%9f%e3%81%97/",
+     "source": "おさらいキッチン",
+     "servings": "作りやすい量"
+    },
+    {
+     "id": "nhk_015",
+     "role": "汁物",
+     "name": "もやし豚汁",
+     "url": "https://www.kyounoryouri.jp/recipe/19488_もやし豚汁.html",
+     "source": "NHKきょうの料理",
+     "servings": ""
+    }
+   ],
+   "buy": [
+    {
+     "name": "卵",
+     "amount": "1個"
+    },
+    {
+     "name": "牛乳",
+     "amount": "大さじ1.5"
+    },
+    {
+     "name": "じゃがいも（男爵）",
+     "amount": "3個"
+    },
+    {
+     "name": "玉ねぎ",
+     "amount": "1/2個"
+    },
+    {
+     "name": "豚ひき肉",
+     "amount": "150ｇ"
+    },
+    {
+     "name": "キャベツの千切り",
+     "amount": "適量"
+    },
+    {
+     "name": "キャベツ(千切り)",
+     "amount": "100g"
+    },
+    {
+     "name": "油揚げ(細切り)",
+     "amount": "1枚"
+    },
+    {
+     "name": "もやし",
+     "amount": "1袋"
+    },
+    {
+     "name": "豚バラ肉",
+     "amount": "100g"
+    }
+   ],
+   "staple": [
+    {
+     "name": "だし",
+     "amount": "200ml"
+    },
+    {
+     "name": "みそ",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "みりん",
+     "amount": "大さじ1 + 大さじ1と1/2 + 小さじ1"
+    },
+    {
+     "name": "コショウ",
+     "amount": "少々"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "少々"
+    },
+    {
+     "name": "バター",
+     "amount": "10ｇ"
+    },
+    {
+     "name": "パン粉",
+     "amount": "適量"
+    },
+    {
+     "name": "中濃ソース",
+     "amount": "適量"
+    },
+    {
+     "name": "塩",
+     "amount": "少々"
+    },
+    {
+     "name": "昆布",
+     "amount": "1枚"
+    },
+    {
+     "name": "片栗粉",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "砂糖",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "薄力粉",
+     "amount": "適量"
+    },
+    {
+     "name": "薄口しょうゆ",
+     "amount": "大さじ1と1/2"
+    },
+    {
+     "name": "酒",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "醤油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "黒こしょう",
+     "amount": "適量"
+    }
+   ],
+   "search_text": "コロッケの日 ポテトコロッケ 千切りきゃべつの煮びたし もやし豚汁 卵 牛乳 じゃがいも（男爵） 玉ねぎ 豚ひき肉 キャベツの千切り キャベツ(千切り) 油揚げ(細切り) もやし 豚バラ肉 だし みそ みりん コショウ サラダ油 バター パン粉 中濃ソース 塩 昆布 片栗粉 砂糖 薄力粉 薄口しょうゆ 酒 醤油 黒こしょう"
+  },
+  {
+   "week": 2,
+   "day": "日",
+   "name": "すき焼きの日",
+   "time": 40,
+   "note": "割下から作る本格すき焼き。昆布だしは前日から仕込むと理想",
+   "weekend": true,
+   "dishes": [
+    {
+     "id": "yt_8_JABe-vN4c_1",
+     "role": "主菜",
+     "name": "すき焼き",
+     "url": "https://www.youtube.com/watch?v=8_JABe-vN4c",
+     "source": "YouTube",
+     "servings": "3〜4人前"
+    },
+    {
+     "id": "yt_WZ2lM6wjASQ",
+     "role": "副菜",
+     "name": "トマトのお浸し",
+     "url": "https://www.youtube.com/watch?v=WZ2lM6wjASQ",
+     "source": "YouTube",
+     "servings": "2〜3人前"
+    }
+   ],
+   "buy": [
+    {
+     "name": "すき焼き用牛肉",
+     "amount": "400g"
+    },
+    {
+     "name": "焼き豆腐",
+     "amount": "1丁"
+    },
+    {
+     "name": "白滝",
+     "amount": "1パック"
+    },
+    {
+     "name": "白菜",
+     "amount": "400g"
+    },
+    {
+     "name": "長ねぎ",
+     "amount": "1本"
+    },
+    {
+     "name": "玉ねぎ",
+     "amount": "1個"
+    },
+    {
+     "name": "椎茸",
+     "amount": "4枚"
+    },
+    {
+     "name": "春菊",
+     "amount": "1把"
+    },
+    {
+     "name": "卵 人数分",
+     "amount": ""
+    },
+    {
+     "name": "牛脂",
+     "amount": "適量"
+    },
+    {
+     "name": "トマト",
+     "amount": "3個"
+    },
+    {
+     "name": "オクラ",
+     "amount": "6本"
+    }
+   ],
+   "staple": [
+    {
+     "name": "Aの昆布だし",
+     "amount": "100cc"
+    },
+    {
+     "name": "きび砂糖",
+     "amount": "大さじ8"
+    },
+    {
+     "name": "だし",
+     "amount": "600cc"
+    },
+    {
+     "name": "だし昆布",
+     "amount": "15g"
+    },
+    {
+     "name": "とろろ昆布",
+     "amount": "適量"
+    },
+    {
+     "name": "みりん",
+     "amount": "50cc"
+    },
+    {
+     "name": "塩",
+     "amount": "少々"
+    },
+    {
+     "name": "薄口醤油",
+     "amount": "50cc"
+    },
+    {
+     "name": "酒",
+     "amount": "150cc"
+    },
+    {
+     "name": "醤油",
+     "amount": "150cc"
+    }
+   ],
+   "search_text": "すき焼きの日 すき焼き トマトのお浸し すき焼き用牛肉 焼き豆腐 白滝 白菜 長ねぎ 玉ねぎ 椎茸 春菊 卵 人数分 牛脂 トマト オクラ Aの昆布だし きび砂糖 だし だし昆布 とろろ昆布 みりん 塩 薄口醤油 酒 醤油"
+  }
+ ],
+ "lunch": [
+  {
+   "week": null,
+   "day": null,
+   "name": "親子丼",
+   "time": 20,
+   "note": "笠原さん直伝のふわとろ卵。だし1:みりん2:醤油1の煮汁",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "yt_FAUNrU9Jomk",
+     "role": "一品",
+     "name": "親子丼",
+     "url": "https://www.youtube.com/watch?v=FAUNrU9Jomk",
+     "source": "YouTube",
+     "servings": "２人前"
+    }
+   ],
+   "buy": [
+    {
+     "name": "鶏もも正肉",
+     "amount": "２００g"
+    },
+    {
+     "name": "長ねぎ",
+     "amount": "1/2本"
+    },
+    {
+     "name": "三つ葉",
+     "amount": "４本"
+    },
+    {
+     "name": "卵",
+     "amount": "4個"
+    },
+    {
+     "name": "A ※鶏肉の下味",
+     "amount": ""
+    },
+    {
+     "name": "B ※煮汁",
+     "amount": ""
+    },
+    {
+     "name": "（出汁",
+     "amount": "200cc、みりん 100cc、醤油 50cc）"
+    }
+   ],
+   "staple": [
+    {
+     "name": "ご飯",
+     "amount": "適量"
+    },
+    {
+     "name": "刻みのり",
+     "amount": "少々"
+    },
+    {
+     "name": "（砂糖",
+     "amount": "小さじ１、醤油 小さじ２）"
+    }
+   ],
+   "search_text": "親子丼 親子丼 鶏もも正肉 長ねぎ 三つ葉 卵 A ※鶏肉の下味 B ※煮汁 （出汁 ご飯 刻みのり （砂糖"
+  },
+  {
+   "week": null,
+   "day": null,
+   "name": "ツナと青ジソのチャーハン",
+   "time": 15,
+   "note": "ツナ缶で手軽に。たくあんの食感がポイント",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "osarai_x008",
+     "role": "一品",
+     "name": "ツナと青ジソのチャーハン",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e3%83%84%e3%83%8a%e3%81%a8%e9%9d%92%e3%82%b8%e3%82%bd%e3%81%ae%e3%83%81%e3%83%a3%e3%83%bc%e3%83%8f%e3%83%b3/",
+     "source": "おさらいキッチン",
+     "servings": "4人分"
+    }
+   ],
+   "buy": [
+    {
+     "name": "ツナ缶(油漬け)",
+     "amount": "2缶(140g)"
+    },
+    {
+     "name": "青ジソ",
+     "amount": "10枚"
+    },
+    {
+     "name": "長ネギ",
+     "amount": "1/2本"
+    },
+    {
+     "name": "たくあん",
+     "amount": "60g"
+    },
+    {
+     "name": "卵",
+     "amount": "4個"
+    }
+   ],
+   "staple": [
+    {
+     "name": "いりゴマ(白)",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "しょうゆ、酒",
+     "amount": "各小さじ2"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "塩、コショウ",
+     "amount": "各少し"
+    },
+    {
+     "name": "温かいご飯",
+     "amount": "800g"
+    }
+   ],
+   "search_text": "ツナと青ジソのチャーハン ツナと青ジソのチャーハン ツナ缶(油漬け) 青ジソ 長ネギ たくあん 卵 いりゴマ(白) しょうゆ、酒 サラダ油 塩、コショウ 温かいご飯"
+  },
+  {
+   "week": null,
+   "day": null,
+   "name": "豚にらのっけうどん",
+   "time": 20,
+   "note": "冷凍うどんでOK。一味は大人だけ",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "lettuce_304",
+     "role": "一品",
+     "name": "豚にらのっけうどん",
+     "url": "https://www.lettuceclub.net/recipe/dish/31090/",
+     "source": "レタスクラブ",
+     "servings": "2人分"
+    }
+   ],
+   "buy": [
+    {
+     "name": "冷凍うどん",
+     "amount": "2玉"
+    },
+    {
+     "name": "豚バラ薄切り肉",
+     "amount": "200g"
+    },
+    {
+     "name": "卵黄",
+     "amount": "2個分"
+    },
+    {
+     "name": "にら",
+     "amount": "1/2わ"
+    },
+    {
+     "name": "にんにくの薄切り",
+     "amount": "1片分"
+    },
+    {
+     "name": "玉ねぎの薄切り",
+     "amount": "1/2個分"
+    }
+   ],
+   "staple": [
+    {
+     "name": "「絶品めんつゆ」",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "サラダ油、ごま油、しょうゆ、一味とうがらし",
+     "amount": "適量"
+    },
+    {
+     "name": "白いりごま",
+     "amount": "少々"
+    }
+   ],
+   "search_text": "豚にらのっけうどん 豚にらのっけうどん 冷凍うどん 豚バラ薄切り肉 卵黄 にら にんにくの薄切り 玉ねぎの薄切り 「絶品めんつゆ」 サラダ油、ごま油、しょうゆ、一味とうがらし 白いりごま"
+  },
+  {
+   "week": null,
+   "day": null,
+   "name": "豚バラのハリハリ焼きそば",
+   "time": 20,
+   "note": "水菜のシャキシャキ食感。麺は蒸し麺",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "osarai_386",
+     "role": "一品",
+     "name": "豚バラのハリハリ焼きそば",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e8%b1%9a%e3%83%90%e3%83%a9%e3%81%ae%e3%83%8f%e3%83%aa%e3%83%8f%e3%83%aa%e7%84%bc%e3%81%8d%e3%81%9d%e3%81%b0/",
+     "source": "おさらいキッチン",
+     "servings": "4人分"
+    }
+   ],
+   "buy": [
+    {
+     "name": "豚バラ薄切り肉",
+     "amount": "300g"
+    },
+    {
+     "name": "中華蒸し麺(焼きそば用)",
+     "amount": "4玉"
+    },
+    {
+     "name": "水菜",
+     "amount": "1束"
+    },
+    {
+     "name": "油揚げ",
+     "amount": "2枚"
+    }
+   ],
+   "staple": [
+    {
+     "name": "かつお節",
+     "amount": "10g"
+    },
+    {
+     "name": "こしょう",
+     "amount": "少し"
+    },
+    {
+     "name": "しょうゆ",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "サラダ油、酢",
+     "amount": "各大さじ2"
+    },
+    {
+     "name": "柚子こしょう",
+     "amount": "小さじ1"
+    },
+    {
+     "name": "砂糖",
+     "amount": "小さじ2"
+    },
+    {
+     "name": "酒、しょうゆ、みりん",
+     "amount": "各大さじ2"
+    }
+   ],
+   "search_text": "豚バラのハリハリ焼きそば 豚バラのハリハリ焼きそば 豚バラ薄切り肉 中華蒸し麺(焼きそば用) 水菜 油揚げ かつお節 こしょう しょうゆ サラダ油 サラダ油、酢 柚子こしょう 砂糖 酒、しょうゆ、みりん"
+  },
+  {
+   "week": null,
+   "day": null,
+   "name": "たこと枝豆のチャーハン",
+   "time": 20,
+   "note": "夏らしい彩り。たこはプリプリ食感で子どもウケ",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "osarai_123",
+     "role": "一品",
+     "name": "たこと枝豆のチャーハン",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e3%81%9f%e3%81%93%e3%81%a8%e6%9e%9d%e8%b1%86%e3%81%ae%e3%83%81%e3%83%a3%e3%83%bc%e3%83%8f%e3%83%b3/",
+     "source": "おさらいキッチン",
+     "servings": "4人分"
+    }
+   ],
+   "buy": [
+    {
+     "name": "ゆでダコの足",
+     "amount": "120g"
+    },
+    {
+     "name": "枝豆",
+     "amount": "60g(正味)"
+    },
+    {
+     "name": "長ねぎ",
+     "amount": "1/3本"
+    },
+    {
+     "name": "青じそ",
+     "amount": "10g"
+    },
+    {
+     "name": "溶き卵",
+     "amount": "2コ分"
+    }
+   ],
+   "staple": [
+    {
+     "name": "ごま油",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "みりん",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "塩",
+     "amount": "小さじ1/2 + 小さじ1+1/2"
+    },
+    {
+     "name": "温かいご飯",
+     "amount": "800g"
+    },
+    {
+     "name": "粗びき黒こしょう",
+     "amount": "小さじ1"
+    }
+   ],
+   "search_text": "たこと枝豆のチャーハン たこと枝豆のチャーハン ゆでダコの足 枝豆 長ねぎ 青じそ 溶き卵 ごま油 みりん サラダ油 塩 温かいご飯 粗びき黒こしょう"
+  },
+  {
+   "week": null,
+   "day": null,
+   "name": "きゅうりのそうめんチャンプルー",
+   "time": 20,
+   "note": "夏の定番。そうめんを炒めて子どもウケ",
+   "weekend": false,
+   "dishes": [
+    {
+     "id": "osarai_108",
+     "role": "一品",
+     "name": "きゅうりのそうめんチャンプルー",
+     "url": "https://www.osarai-kitchen.com/%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93/%e3%83%8e%e3%83%b3%e3%82%b9%e3%83%88%e3%83%83%e3%83%97%ef%bc%81/%e3%81%8d%e3%82%85%e3%81%86%e3%82%8a%e3%81%ae%e3%81%9d%e3%81%86%e3%82%81%e3%82%93%e3%83%81%e3%83%a3%e3%83%b3%e3%83%97%e3%83%ab%e3%83%bc/",
+     "source": "おさらいキッチン",
+     "servings": "4人分"
+    }
+   ],
+   "buy": [
+    {
+     "name": "きゅうり",
+     "amount": "3本"
+    },
+    {
+     "name": "そうめん",
+     "amount": "4束"
+    },
+    {
+     "name": "ベーコン",
+     "amount": "4枚"
+    },
+    {
+     "name": "たまねぎ",
+     "amount": "1/2コ"
+    }
+   ],
+   "staple": [
+    {
+     "name": "しょうゆ",
+     "amount": "大さじ2"
+    },
+    {
+     "name": "みりん",
+     "amount": "大さじ1"
+    },
+    {
+     "name": "サラダ油、ごま油",
+     "amount": "各大さじ1"
+    },
+    {
+     "name": "塩、砂糖",
+     "amount": "各小さじ1/2"
+    },
+    {
+     "name": "粗びきこしょう(黒)",
+     "amount": "少し"
+    },
+    {
+     "name": "酒",
+     "amount": "大さじ3"
+    },
+    {
+     "name": "酢",
+     "amount": "大さじ2"
+    }
+   ],
+   "search_text": "きゅうりのそうめんチャンプルー きゅうりのそうめんチャンプルー きゅうり そうめん ベーコン たまねぎ しょうゆ みりん サラダ油、ごま油 塩、砂糖 粗びきこしょう(黒) 酒 酢"
+  },
+  {
+   "week": null,
+   "day": null,
+   "name": "オムライス",
+   "time": 40,
+   "note": "笠原さん本気のオムライス。週末にじっくり",
+   "weekend": true,
+   "dishes": [
+    {
+     "id": "yt_sj84mkq7aEA",
+     "role": "一品",
+     "name": "オムライス",
+     "url": "https://www.youtube.com/watch?v=sj84mkq7aEA",
+     "source": "YouTube",
+     "servings": "2人前"
+    }
+   ],
+   "buy": [
+    {
+     "name": "鶏もも肉",
+     "amount": "150g"
+    },
+    {
+     "name": "玉ねぎ",
+     "amount": "1/4個"
+    },
+    {
+     "name": "椎茸",
+     "amount": "2枚"
+    },
+    {
+     "name": "いんげん",
+     "amount": "3本"
+    },
+    {
+     "name": "卵",
+     "amount": "4個 ※1人前2個"
+    },
+    {
+     "name": "パセリ",
+     "amount": "適量"
+    }
+   ],
+   "staple": [
+    {
+     "name": "ご飯",
+     "amount": "400g"
+    },
+    {
+     "name": "みりん",
+     "amount": "小さじ1/2"
+    },
+    {
+     "name": "ケチャップ",
+     "amount": "大さじ4 + 大さじ4"
+    },
+    {
+     "name": "コショウ",
+     "amount": "少々"
+    },
+    {
+     "name": "サラダ油",
+     "amount": "小さじ2"
+    },
+    {
+     "name": "バター",
+     "amount": "10g + 30g"
+    },
+    {
+     "name": "塩",
+     "amount": "少々"
+    },
+    {
+     "name": "砂糖",
+     "amount": "少々"
+    },
+    {
+     "name": "酒",
+     "amount": "大さじ1.5"
+    },
+    {
+     "name": "醤油",
+     "amount": "小さじ1/2"
+    }
+   ],
+   "search_text": "オムライス オムライス 鶏もも肉 玉ねぎ 椎茸 いんげん 卵 パセリ ご飯 みりん ケチャップ コショウ サラダ油 バター 塩 砂糖 酒 醤油"
+  }
+ ]
+}

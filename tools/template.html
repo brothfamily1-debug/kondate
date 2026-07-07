@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2B4A7A">
+<link rel="icon" href="icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="献立ローテ">
+<title>うちの献立ローテ</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root{
+  --bg:#F7F7F3; --card:#FFFFFF; --ink:#26303A; --sub:#5C6873; --line:#E2E4DE;
+  --ai:#34568C; --ai-soft:#E9EEF6; --shu:#B84A26; --shu-soft:#F7E9E2;
+  --moss:#5A7A52; --moss-soft:#EBF0E7; --amber:#996E2B; --amber-soft:#F5EEDF;
+  --shadow:0 1px 3px rgba(38,48,58,.07);
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#13171D; --card:#1C222A; --ink:#E7E8E3; --sub:#9AA5AE; --line:#2C333C;
+  --ai:#82A4D6; --ai-soft:#243042; --shu:#D97B54; --shu-soft:#3A2A22;
+  --moss:#93B486; --moss-soft:#263022; --amber:#CBA35C; --amber-soft:#332B1C;
+  --shadow:0 1px 3px rgba(0,0,0,.35);
+}}
+:root[data-theme="dark"]{
+  --bg:#13171D; --card:#1C222A; --ink:#E7E8E3; --sub:#9AA5AE; --line:#2C333C;
+  --ai:#82A4D6; --ai-soft:#243042; --shu:#D97B54; --shu-soft:#3A2A22;
+  --moss:#93B486; --moss-soft:#263022; --amber:#CBA35C; --amber-soft:#332B1C;
+  --shadow:0 1px 3px rgba(0,0,0,.35);
+}
+:root[data-theme="light"]{
+  --bg:#F7F7F3; --card:#FFFFFF; --ink:#26303A; --sub:#5C6873; --line:#E2E4DE;
+  --ai:#34568C; --ai-soft:#E9EEF6; --shu:#B84A26; --shu-soft:#F7E9E2;
+  --moss:#5A7A52; --moss-soft:#EBF0E7; --amber:#996E2B; --amber-soft:#F5EEDF;
+  --shadow:0 1px 3px rgba(38,48,58,.07);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic Medium",YuGothic,sans-serif;
+  font-size:15px;line-height:1.65;-webkit-font-smoothing:antialiased}
+.wrap{max-width:720px;margin:0 auto;padding:20px 16px 64px}
+.masthead{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;
+  border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:6px}
+h1{font-family:"Hiragino Mincho ProN","Yu Mincho",serif;font-weight:600;
+  font-size:26px;margin:0;letter-spacing:.04em}
+.tagline{color:var(--sub);font-size:12.5px;letter-spacing:.02em}
+.howto{color:var(--sub);font-size:12.5px;margin:10px 0 18px}
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);
+  padding:10px 0 12px;display:flex;flex-direction:column;gap:10px}
+.search{width:100%;padding:9px 14px;font-size:15px;color:var(--ink);
+  background:var(--card);border:1.5px solid var(--line);border-radius:8px;outline:none}
+.search:focus{border-color:var(--ai)}
+.search::placeholder{color:var(--sub)}
+.tabs{display:flex;gap:8px}
+.tab{flex:1;padding:8px 4px;font-size:13.5px;font-weight:600;letter-spacing:.03em;
+  color:var(--sub);background:var(--card);border:1.5px solid var(--line);
+  border-radius:8px;cursor:pointer;text-align:center}
+.tab .cnt{font-size:11px;color:var(--shu);margin-left:2px;font-variant-numeric:tabular-nums}
+.tab[aria-selected="true"]{color:var(--ai);border-color:var(--ai);background:var(--ai-soft)}
+.tab:focus-visible,.search:focus-visible{outline:2px solid var(--ai);outline-offset:2px}
+.panel{display:none}
+.panel.active{display:block}
+.panel h2{font-family:"Hiragino Mincho ProN","Yu Mincho",serif;font-weight:600;
+  font-size:17px;margin:22px 0 12px;letter-spacing:.05em}
+.wk-label{font-family:inherit;font-size:12px;color:var(--sub);font-weight:400;margin-left:6px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;
+  padding:16px 18px;margin-bottom:14px;box-shadow:var(--shadow)}
+.card.hide{display:none}
+.card-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+.day{flex:none;width:34px;height:34px;display:grid;place-items:center;
+  font-family:"Hiragino Mincho ProN","Yu Mincho",serif;font-size:16px;font-weight:600;
+  color:var(--ai);background:var(--ai-soft);border-radius:50%}
+.day.wknd{color:var(--shu);background:var(--shu-soft)}
+.set-name{font-family:"Hiragino Mincho ProN","Yu Mincho",serif;font-weight:600;
+  font-size:19px;margin:0;letter-spacing:.03em;text-wrap:balance}
+.time{margin-left:auto;font-size:12px;color:var(--sub);white-space:nowrap;
+  font-variant-numeric:tabular-nums}
+.tag-special{font-size:11px;color:var(--shu);border:1px solid currentColor;
+  border-radius:4px;padding:1px 6px;letter-spacing:.08em}
+.dishes{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px}
+.dish{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.role{flex:none;font-size:11px;font-weight:600;letter-spacing:.1em;
+  padding:2px 8px;border-radius:4px}
+.role-main{color:var(--ai);background:var(--ai-soft)}
+.role-side{color:var(--moss);background:var(--moss-soft)}
+.role-soup{color:var(--amber);background:var(--amber-soft)}
+.role-dish{color:var(--ai);background:var(--ai-soft)}
+.dish a{color:var(--ink);font-weight:600;text-decoration:none;
+  border-bottom:1px solid var(--line)}
+.dish a:hover{color:var(--ai);border-color:var(--ai)}
+.sv,.src{font-size:11.5px;color:var(--sub)}
+.src{border:1px solid var(--line);border-radius:4px;padding:0 5px}
+.note{font-size:12.5px;color:var(--sub);margin:10px 0 0;padding-left:2px}
+.shopping{margin-top:12px;border-top:1px dashed var(--line);padding-top:10px}
+.shopping summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--ai)}
+.shopping summary:focus-visible{outline:2px solid var(--ai);outline-offset:2px}
+.buy{list-style:none;margin:10px 0;padding:0;display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:5px 16px}
+.buy li{font-size:13.5px;display:flex;justify-content:space-between;gap:8px;
+  border-bottom:1px solid var(--line);padding-bottom:3px}
+.amt{color:var(--sub);font-size:12px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.staple{font-size:12px;color:var(--sub);margin:8px 0 0}
+.staple b{font-weight:600}
+.empty{display:none;text-align:center;color:var(--sub);font-size:14px;padding:40px 0}
+.empty.show{display:block}
+footer{margin-top:36px;font-size:11.5px;color:var(--sub);
+  border-top:1px solid var(--line);padding-top:14px}
+@media print{
+  .controls,.tagline{display:none}
+  .panel{display:block!important}
+  .card{break-inside:avoid;box-shadow:none}
+  .shopping{display:block}
+  .shopping summary{list-style:none}
+  body{font-size:12px}
+}
+@media (prefers-reduced-motion: no-preference){
+  .card{transition:border-color .15s}
+}
+</style>
+<script>
+if ('serviceWorker' in navigator) { navigator.serviceWorker.register('sw.js'); }
+</script>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <h1>うちの献立ローテ</h1>
+    <span class="tagline">笠原将弘レシピDB 1,720品より ・ 第__CYCLE__期（__PERIOD__）</span>
+  </header>
+  <p class="howto">2週間ローテーション。平日は30分前後の一汁二菜、週末はごちそう枠。料理名を押すと元レシピ（サイト/動画）が開きます。七味・一味などの薬味は大人だけ後がけで子ども対応。</p>
+  <div class="controls">
+    <input class="search" id="q" type="search" placeholder="食材や料理名でさがす（例: 大根 / 鶏 / じゃがいも）" aria-label="食材や料理名でさがす">
+    <div class="tabs" role="tablist">
+      <button class="tab" role="tab" aria-selected="true" data-panel="w1">晩ごはん 週1<span class="cnt" id="c-w1"></span></button>
+      <button class="tab" role="tab" aria-selected="false" data-panel="w2">晩ごはん 週2<span class="cnt" id="c-w2"></span></button>
+      <button class="tab" role="tab" aria-selected="false" data-panel="lunch">お昼ごはん<span class="cnt" id="c-lunch"></span></button>
+    </div>
+  </div>
+
+__SECTIONS__
+  <p class="empty" id="empty">この食材を使うセットは見つかりませんでした</p>
+  <footer>出典: レタスクラブ / NHKきょうの料理 / おさらいキッチン（ノンストップ！おかず道場）/ YouTube「笠原将弘の料理のほそ道」 ・ 分量は元レシピの人数表記を確認して調整してください ・ 2026年7月版</footer>
+</div>
+<script>
+const tabs=[...document.querySelectorAll('.tab')];
+const panels={w1:document.getElementById('w1'),w2:document.getElementById('w2'),lunch:document.getElementById('lunch')};
+let active='w1';
+function show(p){active=p;tabs.forEach(t=>t.setAttribute('aria-selected',String(t.dataset.panel===p)));
+  Object.entries(panels).forEach(([k,el])=>el.classList.toggle('active',k===p));update();}
+tabs.forEach(t=>t.addEventListener('click',()=>show(t.dataset.panel)));
+const q=document.getElementById('q');
+function update(){
+  const v=q.value.trim().toLowerCase();
+  const counts={};
+  for(const [k,el] of Object.entries(panels)){
+    let n=0;
+    el.querySelectorAll('.card').forEach(c=>{
+      const hit=!v||c.dataset.search.toLowerCase().includes(v);
+      c.classList.toggle('hide',!hit); if(hit)n++;
+    });
+    counts[k]=n;
+    document.getElementById('c-'+k).textContent=v?`(${n})`:'';
+  }
+  document.getElementById('empty').classList.toggle('show',v&&counts[active]===0);
+}
+q.addEventListener('input',update);
+show('w1');
+</script>
+</body>
+</html>
