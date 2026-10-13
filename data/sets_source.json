@@ -1,390 +1,386 @@
 {
- "cycle": 2,
- "period": "2026-09-15 〜 2026-09-28",
- "season_note": "初秋（9月後半）",
- "dinner": [
-  {
-   "week": 1,
-   "day": "月",
-   "name": "チキンチキンごぼう定食",
-   "time": 30,
-   "weekend": false,
-   "dishes": [
-    [
-     "yt_26y3pncfOnI",
-     "m"
-    ],
-    [
-     "yt_ZLBs7Pr8Xps",
-     "s"
-    ],
-    [
-     "nhk_x068",
-     "j"
-    ]
-   ],
-   "note": "お浸しは前日か朝に仕込んで冷蔵しておくと夜は盛るだけ。一味は大人だけ後がけ"
-  },
-  {
-   "week": 1,
-   "day": "火",
-   "name": "サバの味噌煮定食",
-   "time": 35,
-   "weekend": false,
-   "dishes": [
-    [
-     "yt_rtXDaKdNeGg",
-     "m"
-    ],
-    [
-     "osarai_190",
-     "s"
-    ],
-    [
-     "lettuce_358",
-     "j"
-    ]
-   ],
-   "note": "味噌煮は煮ている間にきんぴらとお吸い物。きんぴらの一味は大人だけ後がけ"
-  },
-  {
-   "week": 1,
-   "day": "水",
-   "name": "厚切りしょうが焼き定食",
-   "time": 30,
-   "weekend": false,
-   "dishes": [
-    [
-     "lettuce_x018",
-     "m"
-    ],
-    [
-     "yt_3067kb4ZQBM_2",
-     "s"
-    ],
-    [
-     "osarai_x171",
-     "j"
-    ]
-   ],
-   "note": "つくね汁のタネは朝に丸めておくと時短。しめじ和えはレンチンで5分"
-  },
-  {
-   "week": 1,
-   "day": "木",
-   "name": "肉じゃがの日",
-   "time": 35,
-   "weekend": false,
-   "dishes": [
-    [
-     "yt_THMDUXzO38I",
-     "m"
-    ],
-    [
-     "nhk_141",
-     "s"
-    ],
-    [
-     "nhk_110",
-     "j"
-    ]
-   ],
-   "note": "じゃがいもは主菜と汁物で使い回し。おひたしは前日仕込みOK"
-  },
-  {
-   "week": 1,
-   "day": "金",
-   "name": "サーモン舞茸バター定食",
-   "time": 30,
-   "weekend": false,
-   "dishes": [
-    [
-     "yt_tIuUZ3VHVGQ",
-     "m"
-    ],
-    [
-     "yt_I8AHO_k3lP4",
-     "s"
-    ],
-    [
-     "osarai_x187",
-     "j"
-    ]
-   ],
-   "note": "かぼちゃは煮て放置でOK。豚汁は生クリーム少量でコクが出て子どもが食べやすい"
-  },
-  {
-   "week": 1,
-   "day": "土",
-   "name": "フライドチキンの日",
-   "time": 60,
-   "weekend": true,
-   "dishes": [
-    [
-     "lettuce_431",
-     "m"
-    ],
-    [
-     "yt_GFcUkD51TEw",
-     "s"
-    ],
-    [
-     "yt_qdQr2o6QQLY",
-     "j"
-    ]
-   ],
-   "note": "手羽元は午後早めに下味。マカロニサラダは先に作って冷やしておく"
-  },
-  {
-   "week": 1,
-   "day": "日",
-   "name": "鶏つくね鍋の日",
-   "time": 45,
-   "weekend": true,
-   "dishes": [
-    [
-     "osarai_x326",
-     "m"
-    ],
-    [
-     "yt_bdHel1I7_Ws",
-     "s"
-    ]
-   ],
-   "note": "鍋なので汁物なし。大学芋はおやつ兼デザート、子どもが喜ぶ枠"
-  },
-  {
-   "week": 2,
-   "day": "月",
-   "name": "秋なすと豚のおかか炒め定食",
-   "time": 30,
-   "weekend": false,
-   "dishes": [
-    [
-     "nhk_006",
-     "m"
-    ],
-    [
-     "yt_7xuv7r8zTdE",
-     "s"
-    ],
-    [
-     "lettuce_439",
-     "j"
-    ]
-   ],
-   "note": "里芋は皮をむいて煮るだけ、先に火にかける。炒め物は最後に5分"
-  },
-  {
-   "week": 2,
-   "day": "火",
-   "name": "秋の照り焼きチキン定食",
-   "time": 40,
-   "weekend": false,
-   "dishes": [
-    [
-     "osarai_352",
-     "m"
-    ],
-    [
-     "yt_C0SgOzMlf90",
-     "s"
-    ],
-    [
-     "yt_Aq0S8jDPJQw",
-     "j"
-    ]
-   ],
-   "note": "けんちん汁は多めに作って翌日の昼にも。さつまいもはレンチンで下ゆで時短"
-  },
-  {
-   "week": 2,
-   "day": "水",
-   "name": "カジキ照り焼き定食",
-   "time": 30,
-   "weekend": false,
-   "dishes": [
-    [
-     "yt_yyjbd-bfxD8_1",
-     "m"
-    ],
-    [
-     "lettuce_212",
-     "s"
-    ],
-    [
-     "yt__sELn1AxghU",
-     "j"
-    ]
-   ],
-   "note": "切り干し大根は前日仕込みで味がなじむ。一味は大人だけ後がけ"
-  },
-  {
-   "week": 2,
-   "day": "木",
-   "name": "なすのそぼろ煮定食",
-   "time": 30,
-   "weekend": false,
-   "dishes": [
-    [
-     "yt_eEFE443MRFo_1",
-     "m"
-    ],
-    [
-     "yt_cqt9aQ1gEIY",
-     "s"
-    ],
-    [
-     "nhk_152",
-     "j"
-    ]
-   ],
-   "note": "サラダは缶詰と大根で3分。ミルク豚汁の七味は大人だけ後がけ"
-  },
-  {
-   "week": 2,
-   "day": "金",
-   "name": "さんま塩焼き定食",
-   "time": 30,
-   "weekend": false,
-   "dishes": [
-    [
-     "yt_nqRC6mmGAtU_1",
-     "m"
-    ],
-    [
-     "yt_vfLiDSeBrms",
-     "s"
-    ],
-    [
-     "osarai_x330",
-     "j"
-    ]
-   ],
-   "note": "ひじきは週末に作り置きしておくと楽。さんまは焼くだけ、大根おろしを忘れずに"
-  },
-  {
-   "week": 2,
-   "day": "土",
-   "name": "薄切りとんかつの日",
-   "time": 50,
-   "weekend": true,
-   "dishes": [
-    [
-     "yt_qhKTBVi4HC8",
-     "m"
-    ],
-    [
-     "yt_5BtbhwwwSVM_1",
-     "s"
-    ],
-    [
-     "nhk_x020",
-     "j"
-    ]
-   ],
-   "note": "薄切り肉を重ねるので火通りが早く失敗しにくい。コールスローは先に仕込んで冷蔵"
-  },
-  {
-   "week": 2,
-   "day": "日",
-   "name": "手羽先揚げの日",
-   "time": 50,
-   "weekend": true,
-   "dishes": [
-    [
-     "lettuce_x117",
-     "m"
-    ],
-    [
-     "lettuce_005",
-     "s"
-    ],
-    [
-     "yt_4U8sT_v6IR8_1",
-     "j"
-    ]
-   ],
-   "note": "手羽先は下味30分。かぼちゃは煮て放置。鯛のあらが安ければあらでOK"
-  }
- ],
- "lunch": [
-  {
-   "name": "焼きうどん",
-   "time": 15,
-   "dishes": [
-    [
-     "yt_bCeYSaFAXOA",
-     "d"
-    ]
-   ],
-   "note": "冷蔵庫の残り野菜で応用可。かつお節たっぷりで"
-  },
-  {
-   "name": "カレー中華丼",
-   "time": 20,
-   "dishes": [
-    [
-     "yt_iYXmEvZORMg_3",
-     "d"
-    ]
-   ],
-   "note": "だしベースの優しいカレー味で子どもOK。うずら卵は缶詰で"
-  },
-  {
-   "name": "笠野家の牛丼",
-   "time": 20,
-   "dishes": [
-    [
-     "yt_TgBD15J7zmk",
-     "d"
-    ]
-   ],
-   "note": "つゆだくで。紅しょうがは大人だけ"
-  },
-  {
-   "name": "ちくわ焼き飯",
-   "time": 15,
-   "dishes": [
-    [
-     "yt_YPVk5cDFEM0_1",
-     "d"
-    ]
-   ],
-   "note": "豚バラとちくわでうまみ2倍。冷やご飯向き"
-  },
-  {
-   "name": "とりごぼうの炊き込みご飯",
-   "time": 50,
-   "dishes": [
-    [
-     "lettuce_407",
-     "d"
-    ]
-   ],
-   "note": "週末用。炊飯器にセットして放置、温泉卵をのせて"
-  },
-  {
-   "name": "カレーうどん",
-   "time": 20,
-   "dishes": [
-    [
-     "yt_yPagZqZOK8w",
-     "d"
-    ]
-   ],
-   "note": "だしとカレー粉で作る和風カレーうどん。とろみは片栗粉で"
-  },
-  {
-   "name": "昭和のナポリタン",
-   "time": 20,
-   "dishes": [
-    [
-     "yt_TKclm3XDHA0",
-     "d"
-    ]
-   ],
-   "note": "ウインナーとケチャップで王道。タバスコは大人だけ"
-  }
- ]
+  "cycle": 3,
+  "period": "2026-10-13 〜 2026-10-26",
+  "season_note": "秋本番（10月中旬〜下旬）",
+  "dinner": [
+    {
+      "week": 1,
+      "day": "月",
+      "name": "鶏とれんこんの甘ダレ定食",
+      "time": 30,
+      "weekend": false,
+      "dishes": [
+        [
+          "yt_akzX0EhDBCo_1",
+          "m"
+        ],
+        [
+          "yt_p_sNzFCMFqY_1",
+          "s"
+        ],
+        [
+          "yt_5GuHQQvm0WA_3",
+          "j"
+        ]
+      ],
+      "note": "甘ダレはカンロ飴で作る笠原流。おひたしは朝に仕込んで冷蔵。一味は大人だけ後がけ"
+    },
+    {
+      "week": 1,
+      "day": "火",
+      "name": "塩鮭のちゃんちゃん蒸し定食",
+      "time": 30,
+      "weekend": false,
+      "dishes": [
+        [
+          "osarai_x081",
+          "m"
+        ],
+        [
+          "lettuce_437",
+          "s"
+        ],
+        [
+          "yt_xy8Sq8NBckA",
+          "j"
+        ]
+      ],
+      "note": "フライパン1つで蒸すだけ。煮干しは前夜に水に浸けておくと朝が楽"
+    },
+    {
+      "week": 1,
+      "day": "水",
+      "name": "こしょう豚とかぼちゃの煮もの定食",
+      "time": 30,
+      "weekend": false,
+      "dishes": [
+        [
+          "lettuce_x041",
+          "m"
+        ],
+        [
+          "yt_I1r8Hi0PlCI",
+          "s"
+        ],
+        [
+          "yt_kUdqgNUtHYQ_3",
+          "j"
+        ]
+      ],
+      "note": "子どもの分は豚のこしょう控えめに。無限白菜の鷹の爪は抜いてもOK"
+    },
+    {
+      "week": 1,
+      "day": "木",
+      "name": "和風ハンバーグ定食",
+      "time": 40,
+      "weekend": false,
+      "dishes": [
+        [
+          "yt_R6IwXYQ63gE_1",
+          "m"
+        ],
+        [
+          "osarai_344",
+          "s"
+        ],
+        [
+          "nhk_015",
+          "j"
+        ]
+      ],
+      "note": "タネは朝か前夜に丸めて冷蔵。エリンギは油なしで素焼きが香ばしい"
+    },
+    {
+      "week": 1,
+      "day": "金",
+      "name": "さばの竜田揚げ定食",
+      "time": 30,
+      "weekend": false,
+      "dishes": [
+        [
+          "nhk_x006",
+          "m"
+        ],
+        [
+          "osarai_272",
+          "s"
+        ],
+        [
+          "yt_P9Clvf8ikio",
+          "j"
+        ]
+      ],
+      "note": "さばは骨抜きで小骨を取る。ししとうは大人用。豚汁は多めに作って翌朝も"
+    },
+    {
+      "week": 1,
+      "day": "土",
+      "name": "チキン南蛮の日",
+      "time": 50,
+      "weekend": true,
+      "dishes": [
+        [
+          "yt_lt0DqM1IUuo",
+          "m"
+        ],
+        [
+          "lettuce_008",
+          "s"
+        ],
+        [
+          "yt_5GuHQQvm0WA_3",
+          "j"
+        ]
+      ],
+      "note": "タルタルは市販らっきょうで時短。甘酢は子どもも食べやすい酸味"
+    },
+    {
+      "week": 1,
+      "day": "日",
+      "name": "白菜と豚バラの土鍋蒸しの日",
+      "time": 45,
+      "weekend": true,
+      "dishes": [
+        [
+          "yt_ZWNA1HC4lFA",
+          "m"
+        ],
+        [
+          "lettuce_x139",
+          "s"
+        ]
+      ],
+      "note": "干し椎茸は朝から戻す。七味は大人だけ。酢れんこんの唐辛子は抜いてOK"
+    },
+    {
+      "week": 2,
+      "day": "月",
+      "name": "大根と鶏の塩うま煮定食",
+      "time": 35,
+      "weekend": false,
+      "dishes": [
+        [
+          "yt_-RDUPHFdv3Q_2",
+          "m"
+        ],
+        [
+          "nhk_034",
+          "s"
+        ],
+        [
+          "yt_kUdqgNUtHYQ_3",
+          "j"
+        ]
+      ],
+      "note": "大根1本を今週で使い切る（月・金）。きんぴらの一味は大人だけ"
+    },
+    {
+      "week": 2,
+      "day": "火",
+      "name": "豚こまの照り焼き定食",
+      "time": 25,
+      "weekend": false,
+      "dishes": [
+        [
+          "yt_tbh4H9rqvds_2",
+          "m"
+        ],
+        [
+          "yt_PFYD8tR3g2k",
+          "s"
+        ],
+        [
+          "yt_xy8Sq8NBckA",
+          "j"
+        ]
+      ],
+      "note": "片栗粉をまぶして焼くだけの最速主菜。かぼちゃサラダは前日作り置き可"
+    },
+    {
+      "week": 2,
+      "day": "水",
+      "name": "サーモンのホイル焼き定食",
+      "time": 30,
+      "weekend": false,
+      "dishes": [
+        [
+          "yt_1aFZIKnx9IM",
+          "m"
+        ],
+        [
+          "lettuce_x214",
+          "s"
+        ],
+        [
+          "osarai_x042",
+          "j"
+        ]
+      ],
+      "note": "ホイルに包んでフライパンで放置。きんぴらは柿入りの秋バージョン"
+    },
+    {
+      "week": 2,
+      "day": "木",
+      "name": "鶏むねとかぶと舞茸のソテー定食",
+      "time": 30,
+      "weekend": false,
+      "dishes": [
+        [
+          "yt_zn3J6ic_8jM",
+          "m"
+        ],
+        [
+          "nhk_121",
+          "s"
+        ],
+        [
+          "yt_5GuHQQvm0WA_3",
+          "j"
+        ]
+      ],
+      "note": "むね肉は砂糖と塩を揉み込んでしっとり。だしびたしは前夜に浸けておく"
+    },
+    {
+      "week": 2,
+      "day": "金",
+      "name": "即席ぶり大根定食",
+      "time": 30,
+      "weekend": false,
+      "dishes": [
+        [
+          "lettuce_x023",
+          "m"
+        ],
+        [
+          "lettuce_318",
+          "s"
+        ],
+        [
+          "nhk_015",
+          "j"
+        ]
+      ],
+      "note": "大根は薄めに切って煮込み時間を短縮。白あえのきのこは焼いて香りを出す"
+    },
+    {
+      "week": 2,
+      "day": "土",
+      "name": "メンチカツの日",
+      "time": 60,
+      "weekend": true,
+      "dishes": [
+        [
+          "yt_vhm77ot-Ksg",
+          "m"
+        ],
+        [
+          "yt_hDN8_jit1oI",
+          "s"
+        ],
+        [
+          "yt_kUdqgNUtHYQ_3",
+          "j"
+        ]
+      ],
+      "note": "タネは午前中に成形して冷蔵。からし・ソースは大人だけ。たたきごぼうは前日仕込み"
+    },
+    {
+      "week": 2,
+      "day": "日",
+      "name": "牛ネギすき焼きの日",
+      "time": 45,
+      "weekend": true,
+      "dishes": [
+        [
+          "osarai_345",
+          "m"
+        ],
+        [
+          "yt_deGx8bInNS0_1",
+          "s"
+        ]
+      ],
+      "note": "長ねぎ4本が主役のシンプルすき焼き。なますは前日に漬けておく"
+    }
+  ],
+  "lunch": [
+    {
+      "name": "カツ丼",
+      "time": 30,
+      "dishes": [
+        [
+          "yt_iwursRHGFV8",
+          "d"
+        ]
+      ],
+      "note": "とんかつから作る本気の一杯。衣は卵液に牛乳で軽く"
+    },
+    {
+      "name": "豚丼",
+      "time": 15,
+      "dishes": [
+        [
+          "yt_O4l3byCyEzY",
+          "d"
+        ]
+      ],
+      "note": "生姜焼き用の肉で15分。七味は大人だけ"
+    },
+    {
+      "name": "ミートソーススパゲッティ",
+      "time": 30,
+      "dishes": [
+        [
+          "yt_k58a7fzI194",
+          "d"
+        ]
+      ],
+      "note": "醤油とみりんで和風に寄せた笠原流。多めに作って冷凍可"
+    },
+    {
+      "name": "鮭とさつまいもの炊き込みご飯",
+      "time": 50,
+      "dishes": [
+        [
+          "osarai_401",
+          "d"
+        ]
+      ],
+      "note": "週末用。炊飯器にセットして放置、バターとくるみで"
+    },
+    {
+      "name": "あんかけ焼きそば",
+      "time": 20,
+      "dishes": [
+        [
+          "yt_eRypvNnrbjg",
+          "d"
+        ]
+      ],
+      "note": "野菜は冷蔵庫の残りで応用可。普通のキャベツ・玉ねぎでOK"
+    },
+    {
+      "name": "和風カレー",
+      "time": 30,
+      "dishes": [
+        [
+          "lettuce_x144",
+          "d"
+        ]
+      ],
+      "note": "だしとカレー粉のとろみカレー。辛くないので子どもOK"
+    },
+    {
+      "name": "釜玉しらすうどん",
+      "time": 10,
+      "dishes": [
+        [
+          "osarai_x094",
+          "d"
+        ]
+      ],
+      "note": "冷凍うどんで最速。バターとオイスターソースがコツ"
+    }
+  ]
 }

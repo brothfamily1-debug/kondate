@@ -23,12 +23,14 @@ STAPLE_PAT = re.compile(
     r'^米$|ご飯|ごはん|白飯|のり$|ノリ|海苔|わかめ|ワカメ|顆粒|鶏がらスープの素|チキンスープ|スープの素|'
     r'コンソメ|ナンプラー|オイスターソース|豆板醤|カレー粉|カレールー|おかか|合わせだし'
 )
-EXCLUDE_PAT = re.compile(r'^水$|^湯$|^熱湯$|^冷水$|^氷|お好みで|^あれば|^水溶き|^煮汁$')
+EXCLUDE_PAT = re.compile(r'^水$|^湯$|^熱湯$|^冷水$|^氷|お好みで|^あれば|^水溶き|^煮汁$|^[A-DＡ-Ｄ]\s*※|^[（(]|^主材料$|^合わせ調味料$|^調味料$')
 ROLE = {'m': '主菜', 's': '副菜', 'j': '汁物', 'd': '一品'}
 
 
 def strip_group(name):
-    return re.sub(r'^[A-DＡ-Ｄ]\s*(\([^)]*\))?[:：]\s*', '', name).strip()
+    name = re.sub(r'^[A-DＡ-Ｄ]\s*(\([^)]*\))?[:：]\s*', '', name)
+    name = name.split('…')[0]  # レタスクラブ形式「ぶり…3切れ」の分量を落とす
+    return name.strip()
 
 
 def agg_shopping(recipe_ids):
